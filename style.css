@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(156, 152, 152);
+}
+
+.container{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.bildbearbeitung{
+    display: block;
+    margin: auto;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 2px;
+}
+
